@@ -1,0 +1,21 @@
+body { 
+    background-color:black; 
+    font-family: Arial, sans-serif; 
+    color: #333; 
+    text-align: center; 
+    padding: 40px; 
+   } 
+
+h1,p{
+    color: yellow;
+}
+
+.logo{
+    width: 150px;
+    border-radius: 4px;
+}
+
+.mapa{
+    border-radius: 8px;
+}
+   
